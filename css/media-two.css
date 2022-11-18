@@ -1,0 +1,22 @@
+@media (min-width: 320px) and (max-width: 479px) {
+    .years-title {
+        font-size: 150px;
+    }
+    .years {
+      left: 50px;
+    }
+  }  
+  @media (max-width: 320px) {
+  .years-title {
+    font-size: 100px;
+  }
+  .years {
+    left: 50px;
+  }
+  body .wrapper .content-news .container h1 {
+    font-size: 44px;
+  }
+  body .wrapper .container-fluid .container span {
+    font-size: 17px;
+  }
+  }

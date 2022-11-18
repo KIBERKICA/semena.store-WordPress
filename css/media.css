@@ -1,0 +1,52 @@
+@media (max-width: 1200px) {
+  .flower-news__two {
+    display: none;
+  }
+  .flower-news {
+    display: none;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+@media (min-width: 768px) and (max-width: 991px) {
+}
+@media (min-width: 480px) and (max-width: 767px) {
+    .about-img {
+        display: none;
+    }
+}
+@media (min-width: 320px) and (max-width: 479px) {
+    .about-img {
+        display: none;
+    }
+    body .wrapper .content-offer .offer p {
+        font-size: 48px;
+    }
+    .years-title {
+        font-size: 100px;
+    }
+}
+@media (max-width: 320px) {
+    body .wrapper .content-offer .offer p {
+        font-size: 28px;
+    }
+    .about-img {
+        display: none;
+    }
+    .about-text {
+        font-size: 10px;
+    }
+}
+
+.years {
+    background: #F5F5F5;
+  box-shadow: 5px 5px 18px -1px #3F4801;
+  border-radius: 13px;
+  position: absolute;
+  left: 120px;
+  bottom: -20px;
+  }
+
+  .years-title {
+    font-size: 200px;text-shadow: 9px 5px 5px rgba(0, 0, 0, 0.76);
+  }
