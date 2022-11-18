@@ -1,4 +1,4 @@
-<h1 align="center">Это тема для WordPress - <a href='https://semenadv.ru' target='_blank'>Семена ( Опт/Розница )</a></h1> 
+<h1 align="center">Это тема для WordPress - <a href='https://vk.com/kirillwxmx' target='_blank'>Семена ( Опт/Розница )</a></h1> 
 <h3>Функционал: </h3>
 
 <ul>
@@ -28,3 +28,4 @@
     Плагин WP Mail SMTP
   </li>
 </ul>
+<hr/>
